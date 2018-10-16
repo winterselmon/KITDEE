@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Text size -->
+
+    <dimen name="text_display4">112dip</dimen>
+    <dimen name="text_display3">56dip</dimen>
+    <dimen name="text_display2">45dip</dimen>
+    <dimen name="text_display1">34dip</dimen>
+    <dimen name="text_headline">24dip</dimen>
+    <dimen name="text_title">21dip</dimen>
+    <dimen name="text_title_regis">20dip</dimen>
+    <dimen name="text_title_regis_title">16dp</dimen>
+    <dimen name="text_title_signup">20sp</dimen>
+    <dimen name="text_title_personal">20sp</dimen>
+    <dimen name="text_title_dialog">20sp</dimen>
+    <dimen name="text_title_pin">20sp</dimen>
+    <dimen name="text_subhead">16sp</dimen>
+    <dimen name="text_subhead_18dp">18dp</dimen>
+    <dimen name="text_subhead_20dp">20dp</dimen>
+    <dimen name="text_subhead_request_emp">14sp</dimen>
+    <dimen name="text_subhead_profile">17dp</dimen>
+    <dimen name="text_subhead_requestemp">18dp</dimen>
+    <dimen name="text_subheading">18dip</dimen>
+    <dimen name="text_body">15dip</dimen>
+    <dimen name="text_caption">13dip</dimen>
+    <dimen name="text_button">15dip</dimen>
+    <dimen name="text_display1_pin">34sp</dimen>
+
+
+    <dimen name="text_normal_d3">12dip</dimen>
+    <dimen name="text_normal_d2">14dip</dimen>
+    <dimen name="text_normal_d1">16dip</dimen>
+    <dimen name="text_normal">18dip</dimen>
+    <dimen name="text_normal_social">16dip</dimen>
+    <dimen name="text_normal_empInfo">28dip</dimen>
+    <dimen name="text_normal_u1">20dip</dimen>
+    <dimen name="text_normal_u2">22dip</dimen>
+    <dimen name="text_normal_u3">24dip</dimen>
+    <dimen name="text_normal_u4">26dip</dimen>
+    <dimen name="text_normal_u5">28dip</dimen>
+    <dimen name="text_normal_u6">18dp</dimen>
+    <dimen name="text_normal_u7">16dp</dimen>
+    <dimen name="text_normal_u8">18dp</dimen>
+
+
+    <bool name="isTab">false</bool>
+    <dimen name="agenda_calendar_circle">35dp</dimen>
+    <dimen name="main_menu_width">250dp</dimen>
+    <dimen name="leave_edt_reason_height">60dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="icon_small">32dp</dimen>
+    <dimen name="icon_standard">40dp</dimen>
+    <dimen name="icon_standard_social">38dp</dimen>
+    <dimen name="icon_large">56dp</dimen>
+    <dimen name="icon_standard_S2">24dp</dimen>
+    <dimen name="icon_standard_S2_social">25dp</dimen>
+    <dimen name="img_profile_large">88dp</dimen>
+    <dimen name="img_profile_large_social">77dp</dimen>
+    <dimen name="icon_standard_S3">100dp</dimen>
+    <dimen name="icon_standard_S1">32dp</dimen>
+    <dimen name="icon_standard_S1_social">30dp</dimen>
+    <dimen name="icon_standard_S1_empinfo">32dp</dimen>
+    <dimen name="icon_standard_L1">56dp</dimen>
+    <dimen name="icon_standard_L2">72dp</dimen>
+    <dimen name="icon_dialog">90dp</dimen>
+    <dimen name="icon_profile">30dp</dimen>
+
+
+    <dimen name="pin_pad">72dp</dimen>
+    <dimen name="pin_pad_6">72dp</dimen>
+    <dimen name="pin_create">48dp</dimen>
+    <dimen name="pin_create_6">36dp</dimen>
+
+    <dimen name="header_height">36dp</dimen>
+    <dimen name="action_bar_height">56dp</dimen>
+    <dimen name="toolbar_left_margin">72dp</dimen>
+
+
+</resources>
+

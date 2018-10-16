@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="kitdee_gree">#9AC929</color>
+    <color name="kitdee_yellow">#FFCC00</color>
+    <color name="colorMaKub_black">#555555</color>
+    <color name="colorMaKub_light">#00d8a5</color>
+    <color name="colorMaKub_dark">#319c99</color>
+    <color name="colorMaKub_red">#f36a5a</color>
+
 </resources>

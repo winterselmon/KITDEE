@@ -1,5 +1,11 @@
 <resources>
 
+    <!--<style name="DialogAnimUpDown">-->
+    <!--<item name="android:windowEnterAnimation">@anim/slide_up_dialog</item>-->
+    <!--<item name="android:windowExitAnimation">@anim/slide_down_dialog</item>-->
+    <!--</style>-->
+
+
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -7,5 +13,134 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <style name="DatePickerDialog" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="EditTextBGWhite">
+        <!-- Used for the bottom line when not selected / focused -->
+        <item name="colorControlNormal">#ffffff</item>
+        <!-- colorControlActivated & colorControlHighlight use the colorAccent color by default -->
+    </style>
+
+    <style name="pager_title_main">
+        <item name="android:textColor">@color/pager_title_main</item>
+    </style>
+
+    <style name="black">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="black_bold">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="white">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="white_bold">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="red">
+        <item name="android:textColor">#ff0000</item>
+    </style>
+
+    <style name="red_bold">
+        <item name="android:textColor">#ff0000</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="green">
+        <item name="android:textColor">@color/colorMaKub_light</item>
+    </style>
+
+    <style name="green_bold">
+        <item name="android:textColor">@color/colorMaKub_light</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="gray_7d7d7d">
+        <item name="android:textColor">#7d7d7d</item>
+    </style>
+
+    <style name="gray_7d7d7d_bold">
+        <item name="android:textColor">#7d7d7d</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!-- style text display-->
+
+    <style name="text_display4">
+        <item name="android:textSize">112sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_display3">
+        <item name="android:textSize">56sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_display2">
+        <item name="android:textSize">45sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_display1">
+        <item name="android:textSize">34sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_headline">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_title">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_subheading">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_body2">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="text_body1">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_caption">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="text_button">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="DialogAnimation_2">
+        <item name="android:windowEnterAnimation">@anim/slide_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_up</item>
+    </style>
+
 
 </resources>

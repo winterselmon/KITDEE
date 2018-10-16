@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Icon size -->
+
+    <dimen name="icon_logo_app_small">92dp</dimen>
+    <dimen name="icon_logo_app">166dp</dimen>
+
+    <dimen name="icon_standard_S3">14dp</dimen>
+    <dimen name="icon_standard_S2">20dp</dimen>
+    <dimen name="icon_standard_S1">28dp</dimen>
+    <dimen name="icon_standard">36dp</dimen>
+    <dimen name="icon_standard_L1">44dp</dimen>
+    <dimen name="icon_standard_L2">62dp</dimen>
+
+    <!-- Image and Layout-->
+
+    <dimen name="img_pin_select">28dp</dimen>
+    <dimen name="img_pin">32dp</dimen>
+    <dimen name="img_pin_num">60dp</dimen>
+
+    <dimen name="img_no_detail">80dp</dimen>
+
+    <dimen name="img_profile_normal">60dp</dimen>
+    <dimen name="img_profile_large">76dp</dimen>
+
+    <dimen name="main_check_in">120dp</dimen>
+    <dimen name="main_event_width">300dp</dimen>
+    <dimen name="main_leave_type_text">90dp</dimen>
+    <dimen name="main_leave_FAB">16dp</dimen>
+    <dimen name="main_leave_FAB_LR">20dp</dimen>
+    <dimen name="main_leave_FAB_TB">12dp</dimen>
+
+    <dimen name="add_emp_select_wh">24dp</dimen>
+
+    <dimen name="agenda_calendar_height">210dp</dimen>
+
+</resources>
